@@ -1,0 +1,11 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("pibi.jpg");
+    background-size: 1500px 800px;
+    background-position:  center;
+    background-repeat: no-repeat;
+}
+
